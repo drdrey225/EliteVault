@@ -2,3 +2,13 @@ body{
    padding: 0px;
    margin: 0px;
 }
+
+.mapbg {
+   width: 100%;
+   background-image: url(img/world-map-1024x417.png);
+   background-position: center;
+   background-size: cover;
+   height: 70vh;
+   /* margin: 0px 100px; */
+   background-color: rgb(5, 5, 12);
+}
